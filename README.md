@@ -1,2 +1,2 @@
 # SIM-Sekolah
-Sistem Informasi Management Sekolah SMAN 1 Solok Selatan
+Sistem Informasi Management Nilai Siswa SMPN 14 Padang | Sumatera Barat
