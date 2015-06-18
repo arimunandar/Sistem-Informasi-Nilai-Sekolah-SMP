@@ -50,7 +50,6 @@
                     <ul class="nav navbar-nav" id="mainNav">
                         <li class="active"><a href="#home" class="scroll-link">Home</a></li>
                         <li><a href="#hotnews" class="scroll-link">Hot News</a></li>
-                        <li><a href="#visimisi" class="scroll-link">Visi & Misi</a></li>
                         <li><a href="#profile" class="scroll-link">About Me</a></li>
                         <?php 
                             if (isset($_SESSION['username'])) {
