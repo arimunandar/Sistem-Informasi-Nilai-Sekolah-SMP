@@ -143,26 +143,6 @@
         </div>
         <!--/.container-->
     </section>
-
-    <section id="visimisi" class="page-section" style="background:#111111;">
-        <div class="container">
-            <div class="heading text-center">
-                <!-- Heading -->
-                <h2><i class="fa fa-home color"></i> Visi & Misi</h2><center><hr style="width:15%;"></center>
-            </div>
-            <div class="row">
-                <div class="col-md-12">
-                    <p>        
-                        <label style="padding-right:70px;">Name</label> : Better Swengky <br>
-                        <label style="padding-right:33px;">Nick Name</label> : Better <br>
-                        <label style="padding-right:17px;">Date Of Birth</label> : Batusangkar / 22 Januari 1993 <br>
-                        <label style="padding-right:52px;">Address</label> : Jln. Raya Batusangkar-Lintau KM 9, Kec. Sungayang, <br>
-                        <span style="padding-right:127px;"></span>Kab. Tanah Datar, West Sumatera, Indonesia. <br>
-                    </p>
-                </div>
-            </div>
-
-        </div>
         <!--/.container-->
     </section>
     <section id="profile" class="page-section" style="background:#222222;">
@@ -174,11 +154,9 @@
             <div class="row">
                 <div class="col-md-6">
                     <p>        
-                        <label style="padding-right:70px;">Name</label> : Better Swengky <br>
-                        <label style="padding-right:33px;">Nick Name</label> : Better <br>
-                        <label style="padding-right:17px;">Date Of Birth</label> : Batusangkar / 22 Januari 1993 <br>
-                        <label style="padding-right:52px;">Address</label> : Jln. Raya Batusangkar-Lintau KM 9, Kec. Sungayang, <br>
-                        <span style="padding-right:127px;"></span>Kab. Tanah Datar, West Sumatera, Indonesia. <br>
+                        <label style="padding-right:70px;">Name</label> : Ari Munandar <br>
+                        <label style="padding-right:33px;">E-Mail</label> : arimunandar.dev@gmail.com <br>
+                        <label style="padding-right:17px;">Phone</label> : +6282384669700 <br>
                     </p>
                 </div>
                 <?php 
@@ -222,7 +200,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-12 text-center">
-                    Copyright 2015 | All Rights Reserved | <a href="#">Rika</a>        
+                    Copyright 2015 | All Rights Reserved | <a href="#">Ari Munandar</a>        
                 </div>
             </div>
             <!-- / .row -->
