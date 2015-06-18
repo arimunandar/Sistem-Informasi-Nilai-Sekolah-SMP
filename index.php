@@ -79,27 +79,13 @@
             <div class="container banner-content">
                 <div id="da-slider" class="da-slider">
                     <div class="da-slide">
-                        <h2>Rika</h2>
-                        <p>11101152610580</p>
+                        <h2>Ari Munandar</h2>
+                        <p>+6282384669700</p>
                         <div class="da-img"></div>
                     </div>
                     <div class="da-slide">
-                        <h2>Fakultas Pendidikan Dan Ilmu Keguruan</h2>
-                        <p>Pendidikan Teknik Informatika Dan Komputer</p>
-                        <div class="da-img"></div>
-                    </div>
-                    <div class="da-slide">
-                        <h2>Skripsi</h2>
-                        <div class="da-img"></div>
-                    </div>
-                    <div class="da-slide">
-                        <h2>Dosen Pembimbing 1</h2>
-                        <p>Surmayanti M,Kom</p>
-                        <div class="da-img"></div>
-                    </div>
-                    <div class="da-slide">
-                        <h2>Dosen Pembimbing 2</h2>
-                        <p>Eko Amri Jaya M,Kom</p>
+                        <h2>Sistem Informasi Management Nilai Siswa</h2>
+                        <p>SMP N 14 Padang | Sumatera Barat</p>
                         <div class="da-img"></div>
                     </div>
                     <nav class="da-arrows">
